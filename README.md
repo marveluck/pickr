@@ -53,6 +53,7 @@
 
 <br>
 
+-------------
 
 <h4 align="center">
     <b>Get 700+ Material components for the latest Bootstrap 5 for free.</b>
@@ -69,6 +70,8 @@
         <img src="https://mdbootstrap.com//img/Others/color-picker.png" height="250">
     </a>
 </p>
+
+----------------
 
 ### Features
 * Themes
