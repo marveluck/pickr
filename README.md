@@ -51,6 +51,26 @@
     </a>
 </p>
 
+-------------
+
+<h4 align="center">
+    <b>Get 700+ Material components for the latest Bootstrap 5 for free.</b>
+</h4>
+<p align="center">
+    This component is also available as ready-to-use solution in <a href="https://mdbootstrap.com/docs/standard/?utm_ref_id=304654" target="_blank"><b>MDB UI Kit</b></a>. Learn more about <a href="https://mdbootstrap.com/docs/standard/plugins/color-picker/?utm_ref_id=304654" target="_blank"><b>Bootstrap Color Picker here</b></a>.
+<p>
+
+<p align="center">
+    <a href="https://mdbootstrap.com/docs/standard/?utm_ref_id=304654" target="_blank">
+        <img src="https://mdbootstrap.com//img/Others/mdb5-free.png" height="250"/>
+    </a>
+    <a href="https://mdbootstrap.com/docs/standard/plugins/color-picker/?utm_ref_id=304654" target="_blank">
+        <img src="https://mdbootstrap.com//img/Others/color-picker.png" height="250">
+    </a>
+</p>
+
+----------------
+
 ### Features
 * Themes
 * Simple usage
