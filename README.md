@@ -53,10 +53,13 @@
 
 <br>
 
-<h4 align="center">
-    <a href="https://mdbootstrap.com/?utm_ref_id=304654">MDBootstrap Free UI Kit & Color Picker Plugin</a>
-</h4>
 
+<h4 align="center">
+    <b>Get 700+ Material components for the latest Bootstrap 5 for free.</b>
+</h4>
+<p align="center">
+    This component is also available as ready-to-use solution in <a href="https://mdbootstrap.com/docs/standard/?utm_ref_id=304654" target="_blank"><b>MDB UI Kit</b></a>. Learn more about <a href="https://mdbootstrap.com/docs/standard/plugins/color-picker/?utm_ref_id=304654" target="_blank"><b>Bootstrap Color Picker here</b></a>.
+<p>
 
 <p align="center">
     <a href="https://mdbootstrap.com/docs/standard/?utm_ref_id=304654" target="_blank">
