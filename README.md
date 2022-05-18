@@ -51,6 +51,22 @@
     </a>
 </p>
 
+<br>
+
+<h4 align="center">
+    <a href="https://mdbootstrap.com/?utm_ref_id=304654">MDBootstrap Free UI Kit & Color Picker Plugin</a>
+</h4>
+
+
+<p align="center">
+    <a href="https://mdbootstrap.com/docs/standard/?utm_ref_id=304654" target="_blank">
+        <img src="https://mdbootstrap.com//img/Others/mdb5-free.png" height="300"/>
+    </a>
+    <a href="https://mdbootstrap.com/docs/standard/plugins/color-picker/?utm_ref_id=304654" target="_blank">
+        <img src="https://mdbootstrap.com//img/Others/color-picker.png" height="300">
+    </a>
+</p>
+
 ### Features
 * Themes
 * Simple usage
